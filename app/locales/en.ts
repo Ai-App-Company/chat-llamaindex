@@ -137,10 +137,10 @@ const en = {
   },
 
   Welcome: {
-    Title: "Chat LlamaIndex",
-    SubTitle: "Create chat bots that know your data",
+    Title: "zPunkt RAG ",
+    SubTitle: "V1.0 by KI Academy",
     Quote:
-      "“This tool has saved me countless hours of work and helped me apply AI features to my work faster than ever before.”",
+      "“This tool saved my life as a researcher”",
     LoginLinkedinTitle: "Login with LinkedIn",
   },
 };
